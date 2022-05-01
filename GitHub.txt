@@ -29,4 +29,6 @@ git merge dev
 git log
 3 cmd for push-after create repository
 
+git add .
+git commit - m "update file"
 git push
