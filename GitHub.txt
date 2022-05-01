@@ -9,3 +9,24 @@ mkdir global file
 cd global file
 git init
 git add global file
+git status
+git commit -m "initial commit"
+git log (For who commmit)
+git add . (all file in staging area)
+git status
+git checkout (commit id)
+git branch
+git checkout master
+git branch
+>git checkout dev
+>>git checkout -b shivam/multiply
+git status
+>>git add global file2
+>>git commit -m "add global file-2"
+git checkout dev
+git merge shivam/multiply
+git merge dev
+git log
+3 cmd for push-after create repository
+
+git push
