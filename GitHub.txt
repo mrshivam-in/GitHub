@@ -1,0 +1,11 @@
+Download Git
+git --version
+git config --global user.name "Shivam Kushwaha"
+git config --global user.email "mrshivam.in@gmail.com"
+git config --global user.name
+git config --global user.email
+git config --globel --edit
+mkdir global file
+cd global file
+git init
+git add global file
